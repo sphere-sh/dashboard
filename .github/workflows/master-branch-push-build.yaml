@@ -1,4 +1,4 @@
-name: Build on push to development branch
+name: Build on push to master branch
 
 on:
   push:
