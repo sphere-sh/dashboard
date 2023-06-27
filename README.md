@@ -1,6 +1,6 @@
-# Sphere - website
+# Sphere - Dashboard
 
-In this repository you can find the source code of [sphere.sh](https://www.sphere.sh/).
+In this repository you can find the source code of [sphere.sh](https://dashboar.sphere.sh/).
 
 ## Branching model
 
